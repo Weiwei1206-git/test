@@ -1,5 +1,11 @@
-package com.example.test.controller;/**
+package com.example.test.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+/**
  * @Author gxz20
  * Date 2022/4/6
- */public class HelloController {
+ */
+@RestController
+public class HelloController {
 }
