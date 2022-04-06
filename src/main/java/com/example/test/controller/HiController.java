@@ -5,4 +5,7 @@ package com.example.test.controller;
  * Date 2022/4/6
  */
 public class HiController {
+
+    String sss="";
+
 }
